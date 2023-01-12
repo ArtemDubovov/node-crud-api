@@ -1,0 +1,1 @@
+export const storage = [{id: 1, name: 'Artem', hobby: ['photo', 'sleep']}];
